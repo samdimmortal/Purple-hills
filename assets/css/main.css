@@ -3860,7 +3860,13 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#sidebar {
-				display: none;
+				display: -moz-flex;
+						display: -webkit-flex;
+						display: -ms-flex;
+						display: flex;
+						height: inherit;
+						line-height: inherit;
+						margin: 0;
 			}
 
 		}
