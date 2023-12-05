@@ -110,7 +110,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.8);
+		color: rgba(255, 255, 255, 0.9);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -2862,7 +2862,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: rgba(255, 255, 255, 0.6);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3404,7 +3404,7 @@ input, select, textarea {
 
 					#header > nav > ul > li a {
 						border: 0;
-						color: rgba(255, 255, 255, 0.35);
+						color: rgba(255, 255, 255, 0.6);
 						display: inline-block;
 						font-size: 0.6em;
 						font-weight: bold;
@@ -3413,7 +3413,7 @@ input, select, textarea {
 					}
 
 						#header > nav > ul > li a:hover {
-							color: rgba(255, 255, 255, 0.55);
+							color: rgba(255, 255, 255, 0.6);
 						}
 
 						#header > nav > ul > li a.active {
@@ -3499,7 +3499,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 0.15);
+		border-bottom-color: rgba(255, 255, 255, 0.6);
 	}
 
 		#footer > .inner a:hover {
@@ -3508,7 +3508,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(255, 255, 255, 0.6);
 	}
 
 	#header + #wrapper + #footer > .inner {
